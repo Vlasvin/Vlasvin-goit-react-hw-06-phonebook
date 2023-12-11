@@ -47,8 +47,6 @@ export const ContactForm = () => {
     setNumber('');
   };
 
- 
-
   return (
     <ContForm onSubmit={handleSubmit}>
       <ContLabel>
